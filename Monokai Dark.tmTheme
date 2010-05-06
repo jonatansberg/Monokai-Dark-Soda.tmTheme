@@ -265,6 +265,85 @@
 				<string>#FFEE99</string>
 			</dict>
 		</dict>
+		<!--
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>scope</key>
+			<string></string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#</string>
+			</dict>
+		</dict>
+		-->
+		<dict>
+			<key>name</key>
+			<string>Twig Tagbraces</string>
+			<key>scope</key>
+			<string>entity.other.tagbraces.twig</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Twig Tag</string>
+			<key>scope</key>
+			<string>keyword.control.twig</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FD971F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Twig Variable</string>
+			<key>scope</key>
+			<string>variable.other.twig</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF80F4</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Twig Variable Filter</string>
+			<key>scope</key>
+			<string>support.function.filter.variable.twig</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFCCFB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Twig Function</string>
+			<key>scope</key>
+			<string>entity.name.function.twig</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Twig Function Argument</string>
+			<key>scope</key>
+			<string>entity.other.argument.twig</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E5DB7E</string>
+			</dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Invalid</string>
