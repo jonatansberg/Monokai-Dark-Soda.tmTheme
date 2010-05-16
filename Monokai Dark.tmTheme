@@ -256,6 +256,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>PHP Namespaces</string>
+			<key>scope</key>
+			<string>support.namespace.php, entity.name.type.namespace.php, support.namespace.use.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFB2F9</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHP Namespace Alias</string>
+			<key>scope</key>
+			<string>support.namespace.use-as.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66D9EF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHP Namespace Separator</string>
+			<key>scope</key>
+			<string>punctuation.separator.inheritance.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>CSS Functions / Property Values</string>
 			<key>scope</key>
 			<string>support.function.misc.css, support.constant.property-value.css, support.constant.font-name.css</string>
@@ -265,19 +298,6 @@
 				<string>#FFEE99</string>
 			</dict>
 		</dict>
-		<!--
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>scope</key>
-			<string></string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#</string>
-			</dict>
-		</dict>
-		-->
 		<dict>
 			<key>name</key>
 			<string>Twig Tagbraces</string>
