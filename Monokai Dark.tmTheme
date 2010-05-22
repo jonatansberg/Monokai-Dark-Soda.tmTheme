@@ -258,7 +258,7 @@
 			<key>name</key>
 			<string>PHP Namespaces</string>
 			<key>scope</key>
-			<string>support.namespace.php, entity.name.type.namespace.php, support.namespace.use.php</string>
+			<string>support.other.namespace, entity.name.type.namespace</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -269,7 +269,7 @@
 			<key>name</key>
 			<string>PHP Namespace Alias</string>
 			<key>scope</key>
-			<string>support.namespace.use-as.php</string>
+			<string>support.other.namespace.use-as.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
