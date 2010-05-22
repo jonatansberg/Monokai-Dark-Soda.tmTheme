@@ -278,6 +278,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>PHP Namespace Keyword</string>
+			<key>scope</key>
+			<string>variable.language.namespace.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D66990</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>PHP Namespace Separator</string>
 			<key>scope</key>
 			<string>punctuation.separator.inheritance.php</string>
