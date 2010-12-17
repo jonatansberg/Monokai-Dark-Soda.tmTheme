@@ -15,4 +15,4 @@ ___Note__: this theme was only tested in [Sublime Text][4]. It should be fully c
 [4]: http://www.sublimetext.com/
 [5]: http://github.com/Anomareh/Monokai-Dark.tmTheme/raw/master/screens/full.jpg
 
-[100]: http://github.com/Anomareh/Monokai-Dark.tmTheme/raw/master/screens/small.jpg
+[100]: https://github.com/Anomareh/Monokai-Dark.tmTheme/raw/master/screens/small.jpg
