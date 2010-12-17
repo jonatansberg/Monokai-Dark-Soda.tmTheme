@@ -6,7 +6,7 @@ Monokai Dark is a quickly tweaked version of [Monokai][2], changed to a darker b
 
 ___Note__: this theme was only tested in [Sublime Text][4]. It should be fully compatible with [TextMate][1], but if you come across any errors, please report them and I'll do my best to fix them._
 
-[![Preview](http://github.com/Anomareh/Monokai-Dark.tmTheme/raw/master/screens/small.jpg)][5]
+[![Preview][100]][5]
 
 
 [1]: http://macromates.com/
@@ -14,3 +14,5 @@ ___Note__: this theme was only tested in [Sublime Text][4]. It should be fully c
 [3]: http://monokai.nl/
 [4]: http://www.sublimetext.com/
 [5]: http://github.com/Anomareh/Monokai-Dark.tmTheme/raw/master/screens/full.jpg
+
+[100]: http://github.com/Anomareh/Monokai-Dark.tmTheme/raw/master/screens/small.jpg
