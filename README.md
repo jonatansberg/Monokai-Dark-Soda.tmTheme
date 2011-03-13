@@ -13,6 +13,6 @@ ___Note__: this theme was only tested in [Sublime Text][4]. It should be fully c
 [2]: http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/
 [3]: http://monokai.nl/
 [4]: http://www.sublimetext.com/
-[5]: http://github.com/Anomareh/Monokai-Dark.tmTheme/raw/master/screens/full.jpg
+[5]: http://github.com/Anomareh/Monokai-Dark.tmTheme/raw/master/screens/preview.png
 
-[100]: https://github.com/Anomareh/Monokai-Dark.tmTheme/raw/master/screens/small.jpg
+[100]: https://github.com/Anomareh/Monokai-Dark.tmTheme/raw/master/screens/preview-thumb.png

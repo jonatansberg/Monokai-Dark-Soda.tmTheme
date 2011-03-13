@@ -310,71 +310,104 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>name</key>
-			<string>Twig Tagbraces</string>
-			<key>scope</key>
-			<string>entity.other.tagbraces.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#A6E22E</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Tag</string>
-			<key>scope</key>
-			<string>keyword.control.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FD971F</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Variable</string>
-			<key>scope</key>
-			<string>variable.other.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FF80F4</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Variable Filter</string>
-			<key>scope</key>
-			<string>support.function.filter.variable.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFCCFB</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Function</string>
-			<key>scope</key>
-			<string>entity.name.function.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#F92672</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Twig Function Argument</string>
-			<key>scope</key>
-			<string>entity.other.argument.twig</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E5DB7E</string>
-			</dict>
-		</dict>
+            <key>name</key>
+            <string>Twig Tagbraces</string>
+            <key>scope</key>
+            <string>meta.tag.template.value.twig, meta.tag.template.block.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#CD5AC5</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Keywords</string>
+            <key>scope</key>
+            <string>keyword.control.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#E05D8C</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Objects</string>
+            <key>scope</key>
+            <string>variable.other.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#E5A5E0</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Object Properties</string>
+            <key>scope</key>
+            <string>variable.other.property.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFE1FC</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Language Constants</string>
+            <key>scope</key>
+            <string>constant.language.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFD2A6</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Numerical Constants</string>
+            <key>scope</key>
+            <string>constant.numeric.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFD0FB</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Filters</string>
+            <key>scope</key>
+            <string>support.function.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#90E7F7</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig User-Defined Filters</string>
+            <key>scope</key>
+            <string>meta.function-call.other.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FAB85A</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Twig Macros</string>
+            <key>scope</key>
+            <string>meta.function-call.twig</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FAB85A</string>
+            </dict>
+        </dict>
 		<dict>
 			<key>name</key>
 			<string>Invalid</string>
