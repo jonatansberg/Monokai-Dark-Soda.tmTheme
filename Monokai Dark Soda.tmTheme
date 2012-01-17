@@ -436,6 +436,17 @@
                 <string>#F8F8F0</string>
             </dict>
         </dict>
+        <dict>
+            <key>name</key>
+            <string>Embedded Source</string>
+            <key>scope</key>
+            <string>text source</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#3D3D3D55</string>
+            </dict>
+        </dict>
     </array>
     <key>uuid</key>
     <string>233F0694-0B9C-43E3-A44A-ECECF7DF6C73</string>
