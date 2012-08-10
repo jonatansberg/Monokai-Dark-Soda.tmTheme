@@ -438,6 +438,67 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>diff: header</string>
+            <key>scope</key>
+            <string>meta.diff, meta.diff.header</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string>bold</string>
+                <key>foreground</key>
+                <string>#E0EDDD</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>diff: deleted</string>
+            <key>scope</key>
+            <string>markup.deleted</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#D3201F</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>diff: changed</string>
+            <key>scope</key>
+            <string>markup.changed</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#BF3904</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>diff: inserted</string>
+            <key>scope</key>
+            <string>markup.inserted</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#60cf30</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>diff: range</string>
+            <key>scope</key>
+            <string>meta.diff, meta.diff.range</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#3bc0f0</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Markdown: Headings</string>
             <key>scope</key>
             <string>markup.heading.markdown, markup.heading.1.markdown, markup.heading.2.markdown</string>
