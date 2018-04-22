@@ -23,6 +23,54 @@
                 <string>#403d3d</string>
             </dict>
         </dict>
+        <!-- MIS AJUSTES -->
+        <dict>
+            <key>name</key>
+            <string>PHPTag</string>
+            <key>scope</key>
+            <string>punctuation.section.embedded</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FD971F</string>
+                <key>fontStyle</key>
+                <string>italic</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>VariableJS</string>
+            <key>scope</key>
+            <string>variable.language</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#00ff00</string> <!-- #ff00ff  -->
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Variable</string>
+            <key>scope</key>
+            <string>variable</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d7d2ff</string> <!-- #8eddbf  -->
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Function Call Variable</string>
+            <key>scope</key>
+            <string>variable.other.property</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c891ff</string>
+            </dict>
+        </dict>
+        <!-- FIN DE MIS AJUSTES -->
         <dict>
             <key>name</key>
             <string>Comment</string>
