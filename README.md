@@ -1,8 +1,8 @@
 ### Monokai Dark Soda Extended tmTheme
 
-A [VS Code][1] and [Sublime Text][4] theme __HEAVILY__ based on [Monokai][2] by [Wimer Hazenberg][4].
+A [VS Code][1] and [Sublime Text][4] theme __HEAVILY__ based on [Monokai][2] by [Wimer Hazenberg][3].
 
-Monokai Dark Soda is a quickly tweaked version of [Monokai][2], changed to a darker background with a few color changes and tweaks for CSS, PHP and Javascript
+Monokai Dark Soda Extended is a quickly tweaked version of [Monokai][2], changed to a darker background with a few color changes and tweaks for CSS, PHP and Javascript
 
 __Note__: this theme was tested in Microsoft VS Code and Sublime Text
 
