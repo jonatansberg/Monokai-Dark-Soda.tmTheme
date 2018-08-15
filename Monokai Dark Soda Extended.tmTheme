@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
+	<dict>
     <key>name</key>
     <string>Monokai Dark</string>
     <key>settings</key>
@@ -76,17 +76,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#FF80F4</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>Variable</string>
-            <key>scope</key>
-            <string>variable</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string></string>
             </dict>
         </dict>
         <dict>
@@ -251,7 +240,9 @@
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string></string>
+                <string>italic</string>
+                <key>foreground</key>
+                <string>#c891ff</string>
             </dict>
         </dict>
         <dict>
@@ -668,6 +659,114 @@
                 <string>#8C8C8C</string>
             </dict>
         </dict>
+        <!--MIS AJUSTES-->
+        <dict>
+            <key>name</key>
+            <string>Function Call Variable</string>
+            <key>scope</key>
+            <string>variable.other.property</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c891ff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Support Variable Property DOM</string>
+            <key>scope</key>
+            <string>support.variable.property.dom</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c891ff</string>
+            </dict>
+        </dict>
+         <dict>
+            <key>name</key>
+            <string>Variable</string>
+            <key>scope</key>
+            <string>variable</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d7d2ff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>PHPTag</string>
+            <key>scope</key>
+            <string>punctuation.section.embedded</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FD971F</string>
+                <key>fontStyle</key>
+                <string>italic</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>VariableJS</string>
+            <key>scope</key>
+            <string>variable.language</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ff17c6</string> <!-- #29FF3B -->
+                <key>fontStyle</key>
+                <string>italic</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Punctuation Template Expression</string>
+            <key>scope</key>
+            <string>punctuation.definition.template-expression</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d7d2ff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Meta</string>
+            <key>scope</key>
+            <string>meta</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#f1efff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Support</string>
+            <key>scope</key>
+            <string>support</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F8F8F0</string>
+                <key>fontStyle</key>
+                <string>italic</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Support Function</string>
+            <key>scope</key>
+            <string>support.function</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <!-- <string>#25ef84</string> -->
+                <string>#1ae177</string>
+            </dict>
+        </dict>
+        
     </array>
     <key>uuid</key>
     <string>233F0694-0B9C-43E3-A44A-ECECF7DF6C73</string>
